@@ -6,32 +6,56 @@ using namespace std;
 
 void showCube1 () {
 
-    cout<<" ---------" << endl << "|         |" << endl << "|    .    |" << endl << "|         |" << endl << " ---------" << endl;
+    cout << " --------- " << endl
+         << "|         |" << endl
+         << "|    .    |" << endl
+         << "|         |" << endl
+         << " --------- " << endl;
 }
 
 void showCube2 () {
 
-    cout<<" ---------" << endl << "|  .      |" << endl << "|         |" << endl << "|      .  |" << endl << " ---------" << endl;
+    cou t<< " --------- " << endl
+         << "|  .      |" << endl
+         << "|         |" << endl
+         << "|      .  |" << endl
+         << " --------- " << endl;
 }
 
 void showCube3 () {
 
-    cout<<" ---------" << endl << "|      .  |" << endl << "|    .    |" << endl << "|  .      |" << endl << " ---------" << endl;
+    cout << " --------- " << endl
+         << "|      .  |" << endl
+         << "|    .    |" << endl
+         << "|  .      |" << endl 
+         << " --------- " << endl;
 }
 
 void showCube4 () {
 
-    cout<<" ---------" << endl << "|  .   .  |" << endl << "|         |" << endl << "|  .   .  |" << endl << " ---------" << endl;
+    cout << " --------- " << endl
+         << "|  .   .  |" << endl
+         << "|         |" << endl
+         << "|  .   .  |" << endl
+         << " --------- " << endl;
 }
 
 void showCube5 () {
 
-    cout<<" ---------" << endl << "|  .   .  |" << endl << "|    .    |" << endl << "|  .   .  |" << endl << " ---------" << endl;
+    cout << " --------- " << endl
+         << "|  .   .  |" << endl
+         << "|    .    |" << endl
+         << "|  .   .  |" << endl
+         << " --------- " << endl;
 }
 
 void showCube6 () {
 
-    cout<<" ---------" << endl << "|  .   .  |" << endl << "|  .   .  |" << endl << "|  .   .  |" << endl << " ---------" << endl;
+    cout << " --------- " << endl
+         << "|  .   .  |" << endl
+         << "|  .   .  |" << endl
+         << "|  .   .  |" << endl
+         << " --------- " << endl;
 }
 
 
